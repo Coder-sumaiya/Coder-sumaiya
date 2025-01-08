@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-- <img align="right" alt="coding" width="400" src="![pro](https://github.com/user-attachments/assets/7e7cd34d-fba0-4112-bc83-9d5d999c6112)
+- < src="![pro](https://github.com/user-attachments/assets/7e7cd34d-fba0-4112-bc83-9d5d999c6112)
 "
 
 <h3 align="left">Connect with me:</h3>
