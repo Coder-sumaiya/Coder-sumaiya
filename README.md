@@ -1,9 +1,12 @@
-![logo](Brown Minimalist Profile LinkedIn Article Cover Image.png)
+
 <h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumucoder&label=Profile%20views&color=0e75b6&style=flat" alt="sumucoder" /> </p>
 
+< img align="right" alt="coding"
+  src="![pro](https://github.com/user-attachments/assets/c899ab85-4489-4907-940f-26b3b1b8f1f7)
+">
 - 🌱 I’m currently learning **JavaScript &Bootstrap**
 
 - 💬 Ask me about **JavaScript &Bootstrap**
@@ -11,12 +14,6 @@
 - 📫 How to reach me **sumaiyasumona03@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
-- <img src="![pro](https://github.com/user-attachments/assets/6b845e0d-1c6a-414c-9714-40e10b105e6d)
-"
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
