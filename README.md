@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+- <img align="right" alt="coding" width="400" src="![pro](https://github.com/user-attachments/assets/7e7cd34d-fba0-4112-bc83-9d5d999c6112)
+"
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumaiya akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya akter" height="30" width="40" /></a>
