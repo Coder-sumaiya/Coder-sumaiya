@@ -1,4 +1,4 @@
-
+![logo](Brown Minimalist Profile LinkedIn Article Cover Image.png)
 <h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
